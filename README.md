@@ -3,11 +3,11 @@
 <hr>
 
 ### 🚀 Tecnologias: 
-#### Esse projeto foi construído usando HTML5, CSS3, Javascript e jQuery. 
+#### Esse projeto foi construído usando HTML5, CSS3 e Javascript
 <hr>
 
 ### 👨🏻‍💻 Sobre esse projeto:
-#### Esse projeto foi construindo para ser minha página pessoal na web, aonde eu posso de maneira simples e rápida mostrar ao mundo um pouco dos meus conhecimentos, servido também como porta de entrada para meu github.
+#### Esse projeto foi construido para treinar minha lógica de programação com Javascript e para praticar um pouco do meu conhecimento com CSS Grid.
 <hr>
 
 ### 📚 Você quer contribuir com esse projeto? Eu ficaria muito agradecido! 
